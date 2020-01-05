@@ -1,0 +1,16 @@
+.logo{
+    background-color: #fff;
+}
+
+.pull-lateral {
+    float: left !important;
+  }
+
+  
+.pull-right {
+    float: right !important;
+  }
+
+  .navigator{
+    background-color: #fff;
+  }

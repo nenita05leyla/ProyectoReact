@@ -1,0 +1,13 @@
+export const POST_FIND_ALL_START = 'POST_FIND_ALL_START';
+export const POST_FIND_ALL_OK = 'POST_FIND_ALL_OK';
+export const POST_FIND_ALL_NOK = 'POST_FIND_ALL_NOK';
+
+export const POST_FIND_BY_ID_START = 'POST_FIND_BY_ID_START';
+export const POST_FIND_BY_ID_OK = 'POST_FIND_BY_ID_OK';
+export const POST_FIND_BY_ID_NOK = 'POST_FIND_BY_ID_NOK';
+
+
+export const POST_SAVE_START = 'POST_SAVE_START';
+export const POST_SAVE_OK = 'POST_SAVE_OK';
+export const POST_SAVE_NOK = 'POST_SAVE_NOK';
+export const POST_SAVE_VOID = 'POST_SAVE_VOID';
